@@ -25,8 +25,13 @@ public class AmazonTestClass {
 	  }
 	  
 	  @Test
-	  public void Test01_Verify_Amazon_Logo() {
+	  public void Test02_Verify_Amazon_Logo() {
 		  dsl.amazontestclass.CheckAmazonLogo();
+	  }
+	  
+	  @Test
+	  public void Test03_Verify_git_push() {
+		  
 	  }
 	  
 	  @AfterClass
