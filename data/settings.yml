@@ -1,0 +1,51 @@
+CurrentServer: qa
+seleniumserver: local
+browser: chrome
+timeOut: 60
+seleniumserverhost: http://hostIP:4444/wd/hub
+
+baseUrl:
+appUrl:
+
+#baseUrl: 
+#appUrl: 
+
+googleUrl: https://www.google.com/
+BingUrl: https://www.bing.com
+YouTubeUrl: https://www.youtube.com/
+BestBuyUrl: https://www.bestbuy.com/
+AmazonUrl: https://www.amazon.com/
+CignaUrl: https://www.cigna.com/
+LinkedinUrl: https://www.linkedin.com/
+TwitterUrl: https://twitter.com/
+FacebookUrl: https://www.facebook.com/
+CnnUrl: https://www.cnn.com/
+GlassdoorUrl: https://www.glassdoor.com/index.htm
+DiceUrl: https://www.dice.com/
+CareerbuilderUrl: https://www.careerbuilder.com/
+ZiprecruiterUrl: https://www.ziprecruiter.com/
+TribunepublishingUrl: https://www.tribpub.com/
+
+email:
+    recepients: 
+        recepient1: waqas.ahmed@cubixlabs.com
+
+user:
+   admins:
+    farazsaleem@rs.com: 123456
+    all@all.com: W4llstreet@12345
+   editorial:
+    username: ahmed.siddiqui@bolnetwork.com
+    password: Bol12345
+   analyst: 
+    username: ahmed.siddiqui@bolnetwork.com
+    password: Bol12345
+   Subscriber:
+    username: ahmed.siddiqui@bolnetwork.com
+    password: Bol12345
+    
+Visits:
+
+proAction:
+ Chamber: Assembly
+                      
