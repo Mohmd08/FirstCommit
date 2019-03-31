@@ -30,6 +30,12 @@ public class FacebookTestClass {
 		  dsl.facebooktestclass.CheckFacebookLogo();
 	  }
 	  
+	  
+	  @Test
+	  public void Test04_Verify_git_push() {
+		  
+	  }
+	  
 	  @AfterClass
 	  public void afterClass() throws Exception {
 		  dsl.closeBrowser();  
